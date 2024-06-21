@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "price": 135.000,
+            "image": "https://channel.mediacdn.vn/thumb_w/640/428462621602512896/2023/7/1/photo-1-16881794231091909106392.jpg",
+            "title": "Combo hè Jollibee"
+            
+        },
+        {
+            "id": 2,
+            "price": 39.00,
+           "image": "https://stc.shopiness.vn/deal/2017/09/13/e/f/6/d/1505275634689_540.png",
+            "title": "Ưu đã gia đình"
+            
+        },
+        {
+            "id": 3,
+            "price": 29.99,
+           "image": "https://stc.shopiness.vn/deal/2017/10/30/f/5/3/9/1509343534925_540.png",
+            "title": "Combo ăn là ghiền"
+            
+        },
+        {
+            "id": 4,
+            "price": 99.99,
+           "image": "https://toplist.vn/images/800px/burger-king-1017958.jpg",
+            "title": "Nhân cá hồi xông khói"
+            
+        },
+        {
+            "id": 5,
+            "price": 59.99,
+           "image": "https://toplist.vn/images/800px/bonchon-1236098.jpg",
+            "title": "vui tiệc giòn tan"
+            
+        },
+        {
+            "id": 6,
+            "price": 149.99,
+           "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/473720RLo/lotteria-969208.jpg",
+            "title": "deal hời mời bạn"
+            
+        },
+        {
+            "id": 7,
+            "price": 79.99,
+           "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/473720ihP/mcdonalds-969447.jpg",
+            "title": "Combo độc thân"
+            
+        },
+        {
+            "id": 8,
+            "price": 49.99,
+           "image": "https://toplist.vn/images/800px/mc-donalds-1017953.jpg",
+            "title": "khơi lại món mới "
+            
+        },
+        {
+            "id": 9,
+            "price": 39.99,
+            "image": "https://poliva.vn/wp-content/uploads/2019/08/combo-la-gi-1.jpg",
+            "title": "Combo 99K"
+            
+        },
+        {
+            "id": 10,
+            "price": 129.99,
+            "image": "https://amoon.com.vn/wp-content/uploads/2020/04/8-sai-lam-luyen-tap-9-1400x787.jpg",
+            "title": "Combo hai bánh.."
+            
+        }   
+    ]
+}
